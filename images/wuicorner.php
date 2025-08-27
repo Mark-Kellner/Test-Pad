@@ -1,0 +1,1 @@
+<p align="center"><img border="0" src="images/WUICorner.gif" width="130" height="73"></p>
